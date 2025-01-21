@@ -36,25 +36,25 @@ The goal of this project is to build, train, and evaluate a neural network model
 
    pip install tensorflow matplotlib numpy pandas scikit-learn
 
-1. Download Dataset: Place the dataset files (t10k-images-idx3-ubyte and t10k-labels-idx1-ubyte) in the appropriate directory or Colab environment.
+1. **Download Dataset**: Place the dataset files (t10k-images-idx3-ubyte and t10k-labels-idx1-ubyte) in the appropriate directory or Colab environment.
    
-2. Execute the Notebook: Run the notebook cells step-by-step to load the dataset, preprocess data, train the model, and evaluate performance.
+2. **Execute the Notebook**: Run the notebook cells step-by-step to load the dataset, preprocess data, train the model, and evaluate performance.
    
 ## Results
 
-. Training Accuracy: Achieved a high accuracy of ~99.9% during training.
+**. Training Accuracy**: Achieved a high accuracy of ~99.9% during training.
 
-. Validation Accuracy: Maintained over 95% accuracy on the validation dataset.
+**. Validation Accuracy**: Maintained over 95% accuracy on the validation dataset.
 
-. Confusion Matrix: Highlights the model's performance across different classes.
+**. Confusion Matrix**: Highlights the model's performance across different classes.
 
 ## Visuals
 
-. Sample Images: Showcased input images and their true labels.
+**. Sample Images**: Showcased input images and their true labels.
 
-. Training History: Accuracy and loss graphs demonstrate model improvement over epochs.
+**. Training History**: Accuracy and loss graphs demonstrate model improvement over epochs.
 
-. Prediction Visualization: Compares predicted labels with true labels for test samples.
+**. Prediction Visualization**: Compares predicted labels with true labels for test samples.
 
 ## Model Evaluation
 
@@ -62,8 +62,8 @@ The model was evaluated on test data, achieving impressive results in accuracy a
 
 ## Contributors
 
-# John Akech
+**John Akech**
 
-# Kuir Juach Kuir
+**Kuir Juach Kuir**
 
 Feel free to explore and extend this project. Feedback is welcome!
