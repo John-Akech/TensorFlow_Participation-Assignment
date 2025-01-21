@@ -62,8 +62,8 @@ The model was evaluated on test data, achieving impressive results in accuracy a
 
 ## Contributors
 
-**John Akech**
+**1. John Akech**
 
-**Kuir Juach Kuir**
+**2 .Kuir Juach Kuir**
 
 Feel free to explore and extend this project. Feedback is welcome!
