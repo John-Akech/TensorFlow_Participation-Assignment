@@ -36,7 +36,7 @@ The goal of this project is to build, train, and evaluate a neural network model
 
    pip install tensorflow matplotlib numpy pandas scikit-learn
 
-1. **Download Dataset**: Place the dataset files (t10k-images-idx3-ubyte and t10k-labels-idx1-ubyte) in the appropriate directory or Colab environment.
+1. **Download Dataset from MNIST**: Place the dataset files (t10k-images-idx3-ubyte and t10k-labels-idx1-ubyte) in the appropriate directory or Colab environment.
    
 2. **Execute the Notebook**: Run the notebook cells step-by-step to load the dataset, preprocess data, train the model, and evaluate performance.
    
