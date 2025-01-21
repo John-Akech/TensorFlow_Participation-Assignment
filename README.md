@@ -36,20 +36,34 @@ The goal of this project is to build, train, and evaluate a neural network model
 
    pip install tensorflow matplotlib numpy pandas scikit-learn
 
-Download Dataset: Place the dataset files (t10k-images-idx3-ubyte and t10k-labels-idx1-ubyte) in the appropriate directory or Colab environment.
-Execute the Notebook: Run the notebook cells step-by-step to load the dataset, preprocess data, train the model, and evaluate performance.
-Results
-Training Accuracy: Achieved a high accuracy of ~99.9% during training.
-Validation Accuracy: Maintained over 95% accuracy on the validation dataset.
-Confusion Matrix: Highlights the model's performance across different classes.
-Visuals
-Sample Images: Showcased input images and their true labels.
-Training History: Accuracy and loss graphs demonstrate model improvement over epochs.
-Prediction Visualization: Compares predicted labels with true labels for test samples.
-Model Evaluation
+1. Download Dataset: Place the dataset files (t10k-images-idx3-ubyte and t10k-labels-idx1-ubyte) in the appropriate directory or Colab environment.
+   
+2. Execute the Notebook: Run the notebook cells step-by-step to load the dataset, preprocess data, train the model, and evaluate performance.
+   
+## Results
+
+. Training Accuracy: Achieved a high accuracy of ~99.9% during training.
+
+. Validation Accuracy: Maintained over 95% accuracy on the validation dataset.
+
+. Confusion Matrix: Highlights the model's performance across different classes.
+
+## Visuals
+
+. Sample Images: Showcased input images and their true labels.
+
+. Training History: Accuracy and loss graphs demonstrate model improvement over epochs.
+
+. Prediction Visualization: Compares predicted labels with true labels for test samples.
+
+## Model Evaluation
+
 The model was evaluated on test data, achieving impressive results in accuracy and efficiency. Future improvements could focus on optimizing the model for better generalization.
 
-Contributors
-John Akech
-Kuir Juach Kuir
+## Contributors
+
+# John Akech
+
+# Kuir Juach Kuir
+
 Feel free to explore and extend this project. Feedback is welcome!
